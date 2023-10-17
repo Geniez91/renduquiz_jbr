@@ -1,3 +1,6 @@
+# Membres du projet
+CE PROJET A ETE REALISE PAR JEREMY WELTMANN, RAYAN MAMACHE ET BRAYAN KUTLAR.
+
 # AngularQuiz
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
